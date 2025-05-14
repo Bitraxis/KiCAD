@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Hello World")(type "KiCad")(uri "${KIPRJMOD}/Hello World.kicad_sym")(options "")(descr ""))
+)
