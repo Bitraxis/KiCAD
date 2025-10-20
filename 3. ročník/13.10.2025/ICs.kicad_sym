@@ -1,6 +1,6 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
   (symbol "RDA5807FP" (in_bom yes) (on_board yes)
-    (property "Reference" "U" (at 0 0 0)
+    (property "Reference" "RDA5807FP" (at 15.24 -6.35 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "" (at 0 0 0)
@@ -13,6 +13,10 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (symbol "RDA5807FP_0_1"
+      (arc (start 0 -10.16) (mid 1.5781 -6.35) (end 0 -2.54)
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
       (rectangle (start 0 0) (end 29.21 -12.7)
         (stroke (width 0) (type default))
         (fill (type none))
@@ -97,6 +101,12 @@
     )
     (property "Datasheet" "" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
+    )
+    (symbol "TDA2822_0_1"
+      (arc (start 10.16 -1.27) (mid 9.1079 -3.81) (end 10.16 -6.35)
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
     )
     (symbol "TDA2822_1_1"
       (rectangle (start 0 0) (end 10.16 -7.62)
