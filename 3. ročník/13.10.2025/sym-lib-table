@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "NAGY_ELEKTRONIKA")(type "KiCad")(uri "C:/Users/DominikNagy/OneDrive - Piaristická spojená škola Františka Hanáka v Prievidzi/KiCAD/3. ročník/NAGY_ELEKTRONIKA/NAGY_ELEKTRONIKA.kicad_sym")(options "")(descr ""))
+  (lib (name "ICs")(type "KiCad")(uri "${KIPRJMOD}/ICs.kicad_sym")(options "")(descr ""))
+)
