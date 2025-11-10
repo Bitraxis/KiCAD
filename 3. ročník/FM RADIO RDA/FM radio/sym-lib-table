@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "IC2 2822")(type "KiCad")(uri "${KIPRJMOD}/IC2 2822.kicad_sym")(options "")(descr ""))
+  (lib (name "Moja knižnica")(type "KiCad")(uri "${KIPRJMOD}/Moja knižnica.kicad_sym")(options "")(descr ""))
+)
